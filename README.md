@@ -27,7 +27,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Dayv4n/Dayv4n/blob/main/.github/snake.yml" alt="Snake animation" />
 
 ###
 
